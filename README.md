@@ -1,3 +1,5 @@
+permalink: /index.html
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 3. Inside your local git repository, add your **html** files, as well as your **assets**, **Resources** and **visualizations** folders. Your `index.html` should be the landing page that the user first sees.
