@@ -1,4 +1,4 @@
-permalink: /Index.html
+permalink: /index.html
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
